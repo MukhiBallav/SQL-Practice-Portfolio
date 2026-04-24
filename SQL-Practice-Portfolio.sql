@@ -121,7 +121,7 @@ WHERE FirstName LIKE '%ill%'
 
 
 -----------------------------------------------------------
--- 12. Customers with avg order between 1000–1200
+-- 12. Customers with avg order between 1000â€“1200
 -----------------------------------------------------------
 SELECT TOP 5
     c.Id,
